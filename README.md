@@ -1,4 +1,4 @@
-#Financial Statement Extractor App
+# Financial Statement Extractor App
 
 ## Overview
 
